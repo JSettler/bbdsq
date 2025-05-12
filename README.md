@@ -19,11 +19,11 @@ To play first (by default, the computer starts) start the program with "--me" pa
 
 Start it with "-h" (or "--help") argument to get a list of all possible parameters.
 
-Use "--ttsize <MB>" to start it with a non-default-sized transposition table (default: 256 MB)
+Use "--ttsize [MB]" to start it with a non-default-sized transposition table (default: 256 MB)
 
-Take back moves with <backspace>, undo takebacks with <shift>-<backspace>.
+Take back moves with [backspace], undo takebacks with [shift]+[backspace]. [Esc] to quit.
 
-Program automatically saves game after quit and auto-loads it at start (if exists).
+Program automatically saves game after *quit* and auto-loads it at *start* (if exists).
 
 
 

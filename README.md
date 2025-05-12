@@ -3,13 +3,14 @@ Welcome to bbDSQ, an implementation of Dou Shou Qi (Jungle chess) using bitboard
 
 Build instructions (in Linux):
 
-    1. unzip the archive to folder 'bbdsq' and copy "arial-monospace.ttf" (in bbdsq-folder) to "build"-folder (if it doesn't exist there yet)
+A) unzip the archive to folder 'bbdsq' and copy "arial-monospace.ttf" (in bbdsq-folder) to "build"-folder (if it doesn't exist there yet)
 
-    2. type in terminal: "CD bbdsq/build"
+B) type in terminal: "CD bbdsq/build"
 
-    3. type "cmake .."  (creates all makefiles, using default [release] model)  [optionally delete files from a previous build, before that command]
+C) type "cmake .."  (creates all makefiles, using default [release] model)  [optionally delete files from a previous build, before that command]
 
-    4. type "make" to compile/link (build) the project into an executable (binary) file  [optionally "make clean && make" for a fresh build]
+D) type "make" to compile/link (build) the project into an executable (binary) file  [optionally "make clean && make" for a fresh build]
+
 
 
 To select another thinking-level, start the program with a parameter, like so: "./bbdsq --depth 7"

@@ -39,12 +39,3 @@ https://en.wikipedia.org/wiki/Jungle_(board_game)
 
 ![Jungle board](https://github.com/JSettler/bbdsq/blob/master/bbdsq.png)
 
-
------
-
-
-social media:
-
-https://discord.gg/257jDH3nmn  - our Dou Shou Qi/Jungle chess community
-
-
